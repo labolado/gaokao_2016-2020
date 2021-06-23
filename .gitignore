@@ -1,2 +1,4 @@
 *.xlsx
 readme.txt
+.DS_Store
+
